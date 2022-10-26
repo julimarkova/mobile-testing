@@ -1,0 +1,8 @@
+1.sign in account 1
+2.sign in account 2 on a real device
+3.in account 1 select the contact of account 2
+4.look at user status must be jnline
+5.sigh out 2
+6.see in account 1 that account 2 is in offline user status
+7.sing in account 2
+8.from account 2 send message to account1

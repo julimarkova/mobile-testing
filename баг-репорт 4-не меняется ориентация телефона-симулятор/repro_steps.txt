@@ -1,0 +1,2 @@
+1.click "on chats"
+2.select horizontal orientation of the phone
